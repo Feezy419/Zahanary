@@ -1,0 +1,216 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+    font-family: "Ubuntu", sans-serif;
+}
+
+
+
+.First-div {
+    background: linear-gradient(90deg, #00D1FF 50%, rgba(13, 239, 117, 0.5) 100%);
+    align-items: center;
+    padding-top: 57px;
+    padding-bottom: 53px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .Second {
+    display: flex;
+    align-items: center;
+  }
+  .First {
+    display: flex;
+    list-style: none;
+    color: #fff;
+  }
+  .Second img {
+    height: 63px;
+    height: 61px;
+    padding-left: 99px;
+    padding-right: 17px;
+  }
+  
+  .Second .p1 {
+  
+    font-size: 30px;
+    color: #fff;
+    line-height: 35px;
+  }
+  
+  .Second .p2 {
+    color: #fff;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 0%;
+  }
+  
+  .List .First {
+    gap: 40px;
+    font-size: 20px;
+    line-height: 22.98px;
+    padding-right: 100px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    flex: 2.5;
+}
+
+.one {
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 85px;
+}
+
+.one img {
+    width: 32px;
+    height: 32px;
+    align-items: center;
+}
+
+.input {
+    margin-left: 147px;
+}
+
+.input input {
+    display: block;
+    border: none;
+    border-bottom: 1px solid #0DEF75;
+    padding-top: 62px;
+    border-bottom-color: #666666;
+    width: 518px;
+    outline: none;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+
+
+}
+
+.one p {
+    color: #000000;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    padding-left: 30px;
+
+}
+
+.input::placeholder {
+    color: #666666;
+    padding-bottom: 9px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.himageb button {
+    margin-top: 101px;
+    width: 258px;
+    border-radius: 4px;
+    border: none;
+    background: linear-gradient(90deg, #00D1FF 13.57%, rgba(13, 239, 117, 0.5) 100%);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 22.98px;
+    color: #FFFFFF;
+    margin-left: 408px;
+}
+
+.himageb P {
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+
+.whole {
+    display: flex;
+    height: 100vh;
+}
+
+.color {
+    background: linear-gradient(180deg, #00D1FF 0%, #0DEF75 100%);
+    flex: 1.5;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.color p:nth-child(1) {
+    font-family: Ubuntu;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 40px;
+    margin-top: 197px;
+}
+
+.color p:nth-child(2) {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 40px;
+    margin-top: 16px;
+}
+
+.color p:nth-child(2) span {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.color p:nth-child(3) {
+    color: #333333;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    margin-top: 166px;
+
+}
+
+.action {
+    display: flex;
+    padding-left: 104px;
+    padding-top: 27px;
+}
+
+.action-1 label {
+    padding-left: 18px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    padding-right: 49px;
+    
+}
+
+.action-2 label {
+    padding-left: 18px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.action input {
+    width: 24px;
+    height: 24px;
+}
+
+.input input:focus{
+    border-color:#0DEF75;
+}
+li a{
+    color: #FFFFFF;
+    text-decoration: none;  
+}
